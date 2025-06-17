@@ -12,7 +12,8 @@ Users can remotely start, purge, or return the syringe motor while adjusting spe
 
 ## Designed and constructed syringe pump
 
-![Designed and constructed syringe pump](Designed and constructed syringe pump.png)
+![Designed and constructed syringe pump](designed_constructed_syringe_pump.png)
+
 
 
 ---
